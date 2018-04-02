@@ -29,10 +29,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+gem 'pg', '>= 1.0.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+# Heady CSS
 gem 'bulma-rails', '~> 0.6.2'
 
 gem 'simple_form', '~> 3.5', '>= 3.5.1'
